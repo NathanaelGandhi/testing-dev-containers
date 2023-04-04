@@ -1,5 +1,5 @@
 {
-  "build": { "dockerfile": "Containerfile" },
+  "build": { "dockerfile": "Dockerfile" },
   "runArgs": ["--userns=keep-id"],
   "containerUser": "dev",
   "features": {  }
