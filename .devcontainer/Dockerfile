@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN apt update && apt install neofetch
+RUN apt update && apt install -y neofetch
